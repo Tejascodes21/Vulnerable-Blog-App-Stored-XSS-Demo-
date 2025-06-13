@@ -70,7 +70,7 @@ Follow the steps below to run the application on your local machine.
 1. Clone the repository
    
 git clone https://github.com/Tejascodes21/Vulnerable-Blog-App-Stored-XSS-Demo.git
-cd Vulnerable-Blog-App-Stored-XSS-Demo
+cd Vulnerable-Blog-App-Stored-XSS-Demo-
 
 2. Create a virtual environment (optional but recommended)
    
